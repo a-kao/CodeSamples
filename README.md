@@ -12,7 +12,7 @@ Skeleton - Sender_skeleton.py
 
 Specs - ee122_2.pdf
 
-Transfer can be instantiated by running “python Receiver.py” and then running “python Sender.py -f <filename>”
+Transfer can be instantiated by running “python Receiver.py” and then running “python Sender.py -f \<filename\> ”
 
 #####Project 3
 Code - firewall.py
